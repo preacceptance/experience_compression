@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+scipy
+spacy
+Pillow
+rpy2
+tslearn
+ipykernel
